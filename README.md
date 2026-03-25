@@ -223,7 +223,7 @@ predict_image(model, image_index=25, dataset=test_dataset)
 <img width="1088" height="960" alt="Gemini_Generated_Image_nl2mtfnl2mtfnl2m" src="https://github.com/user-attachments/assets/8cc342fe-2c50-4a9f-9f26-bbcf561f194a" />
 
 ## Classification Report
-<img width="1472" height="704" alt="Gemini_Generated_Image_ju0ok3ju0ok3ju0o" src="https://github.com/user-attachments/assets/f37c02f7-417d-4bf0-8f8c-cdf3e4022116" />
+<img width="641" height="276" alt="image" src="https://github.com/user-attachments/assets/2cc4d93e-57a9-4307-b0af-daf6c57e0d95" />
 
 ### New Sample Data Prediction
 <img width="432" height="500" alt="Screenshot 2025-11-23 164803" src="https://github.com/user-attachments/assets/0ba26252-d931-470f-b609-03623196abed" />
